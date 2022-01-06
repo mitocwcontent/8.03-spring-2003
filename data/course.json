@@ -1,0 +1,52 @@
+{
+  "term": "Spring",
+  "year": "2003",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Atomic, Molecular, Optical Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ]
+  ],
+  "legacy_uid": "c7763386-7592-f56d-d3c5-2b85e1380e4f",
+  "instructors": {
+    "content": [
+      "453c3be9-349a-e891-1f7d-bfceb3f05694",
+      "92551257-dd9a-ac0a-8fc3-5536975bcd8d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "84f21738-2d74-6aea-1c28-413a5df8eeb8",
+    "website": "8-03-physics-iii-spring-2003"
+  },
+  "course_title": "Physics III",
+  "course_description": "Mechanical vibrations and waves, simple harmonic motion, superposition, forced vibrations and resonance, coupled oscillations and normal modes, vibrations of continuous systems, reflection and refraction, phase and group velocity. Optics, wave solutions to Maxwell's equations, polarization, Snell's law, interference, Huygens's principle, Fraunhofer diffraction, and gratings.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.03",
+  "course_image_thumbnail": {
+    "content": "e244a4d3-54f8-7884-cd9b-6b455feaad2e",
+    "website": "8-03-physics-iii-spring-2003"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "8d339c09-b45d-4157-8a29-134052fb679e",
+  "title": "Course Metadata"
+}
